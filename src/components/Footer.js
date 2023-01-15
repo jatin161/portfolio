@@ -2,7 +2,6 @@ import React from 'react';
 import { FaLinkedin, FaInstagram } from 'react-icons/fa';
 import styled from 'styled-components';
 import { PText } from './PText';
-import myLogoImage from '../assets/images/mk1.jpg';
 
 const FooterStyle = styled.div`
   padding: 3rem;
