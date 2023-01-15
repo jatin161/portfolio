@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { FaTwitter, FaLinkedin, FaInstagram, FaGithub } from 'react-icons/fa';
+import { FaLinkedin, FaInstagram } from 'react-icons/fa';
 import myImage from '../assets/images/mk - original6.jpg';
 import { Button } from './Button';
 import { PText } from './PText';
