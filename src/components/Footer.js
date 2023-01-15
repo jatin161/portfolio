@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaTwitter, FaLinkedin, FaInstagram, FaGithub } from 'react-icons/fa';
+import { FaLinkedin, FaInstagram } from 'react-icons/fa';
 import styled from 'styled-components';
 import { PText } from './PText';
 import myLogoImage from '../assets/images/mk1.jpg';
