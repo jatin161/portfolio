@@ -85,9 +85,8 @@ export const AboutSection = () => (
       <div className="left__section">
         <SectionTitle heading="Introduction" subHeading="" />
         <PText>
-          Myself Jatin Sharma,I am working proffesional. I did my Bachelors
-          Degree from CHITKARA UNIVERSITY(Punjab campus) majoring in computer
-          science
+          Jatin Sharma,I am working professional. I did my Bachelors degree from
+          CHITKARA UNIVERSITY(Punjab campus), Majoring in computer science.
         </PText>
         <div className="about_buttons">
           <Button btnText="Projects & Blogs" btnLink="/projects" />
