@@ -188,7 +188,7 @@ export const MySection = () => (
         </div>
         <div className="my__info">
           <PText style={{ color: 'Black', alignSelf: 'flex-start' }}>
-            Data science enthusiast with 3 years of experience Skilled in
+            Data science enthusiast with three years of experience, Skilled in
             Python, SQL, and various visualization tools Seeking opportunities
             to expertise in solving real-world problems and making a positive
             impact in this domain
