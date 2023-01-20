@@ -191,10 +191,10 @@ export const MySection = () => (
         <div className="my__info">
           <PText style={{ alignSelf: 'flex-start' }}>
             Data Science practitioner and enthusiast with 3 years of experience
-            in Analytics.Equipped with understanding of Machine learning,
-            statstistics and cloud platform (AWS). Proficient in tools like
-            Python, SQL, EXCEL and Tableau Looking for a chance to contribute to
-            the organization and make an impact by solving core industry
+            in Analytics. Equipped with understanding of Machine Learning,
+            Statistics and Cloud Platform (AWS). Proficient in tools like
+            Python, SQL, Excel and Tableau looking for a chance to contribute to
+            businesses and organisations, and making an impact by solving core industry
             problems.
           </PText>
 
