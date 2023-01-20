@@ -78,15 +78,15 @@ export const About = ({ setProgress }) => {
         <div className="top-section">
           <div className="left">
             <p className="about__subheading">
-              Hello, <span>This is Jatin Sharma,</span>
+              Hello, <span>this is Jatin Sharma.</span>
             </p>
             <h2 className="about__heading">
-              Deputy Manager(Analytics) at Gomechanic(H.Q) India
+              Deputy Manager (Analytics) at Gomechanic, India
             </h2>
             <div className="about__info">
               <PText>
-                Born and brought up in New Delhi. A Data enthusiast with an eye
-                for details. Ever since I was born, I was curious to know how
+                Born and brought up in New-Delhi,I am a Data enthusiast with an eye
+                for detail. Ever since I was born, I was curious to know how
                 business is driven and how decisions are made to drive big
                 corporates. I remember asking my father why the price of
                 Nestle’s Maggi is set to 10 rs Only. How they came to exactly
