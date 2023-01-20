@@ -49,8 +49,10 @@ const MyStyles = styled.div`
   .my__info {
     margin-top: -18rem;
     p {
-      color: var(--black);
-      font-weight: bold;
+      color: var(--white);
+      font-weight: bolder;
+      font-family: 'Montserrat SemiBold';
+      width: 100%;
     }
   }
   .mySection__btn {
@@ -85,7 +87,7 @@ const MyStyles = styled.div`
     img {
       max-height: 45px;
       width: 16px;
-      margin: 0 auto;
+      margin: auto;
       object-fit: contain;
     }
     .my__social__text {
@@ -187,11 +189,13 @@ export const MySection = () => (
           <img src={myImage} alt="" />
         </div>
         <div className="my__info">
-          <PText style={{ color: 'Black', alignSelf: 'flex-start' }}>
-            Data science enthusiast with three years of experience, Skilled in
-            Python, SQL, and various visualization tools Seeking opportunities
-            to expertise in solving real-world problems and making a positive
-            impact in this domain
+          <PText style={{ alignSelf: 'flex-start' }}>
+            Data Science practitioner and enthusiast with 3 years of experience
+            in Analytics.Equipped with understanding of Machine learning,
+            statstistics and cloud platform (AWS). Proficient in tools like
+            Python, SQL, EXCEL and Tableau Looking for a chance to contribute to
+            the organization and make an impact by solving core industry
+            problems.
           </PText>
 
           <div className="mySection__btn">
