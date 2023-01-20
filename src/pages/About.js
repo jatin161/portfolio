@@ -78,21 +78,26 @@ export const About = ({ setProgress }) => {
         <div className="top-section">
           <div className="left">
             <p className="about__subheading">
-              Hey,Myself <span>Jatin Sharma</span>
+              Hello, <span>This is Jatin Sharma,</span>
             </p>
             <h2 className="about__heading">
               Deputy Manager(Analytics) at Gomechanic(H.Q) India
             </h2>
             <div className="about__info">
               <PText>
-                I belong to New Delhi(India).I have been interest in numbers and
-                statistics from my high school and consider myself as a
-                passionate data enthusiast. In addintion to my professional
-                work, I enjoy participating in different projects and hackathons
-                which helps me to learn something new everytime. Making
-                prediction based on the prodived data is itself very innovative
-                and i feel grateful to be the part and witness this miraculous
-                field.
+                Born and brought up in New Delhi. A Data enthusiast with an eye
+                for details. Ever since I was born, I was curious to know how
+                business is driven and how decisions are made to drive big
+                corporates. I remember asking my father why the price of
+                Nestle’s Maggi is set to 10 rs Only. How they came to exactly
+                that number. Is there any data behind it? And My curiosity took
+                me to choose a career in analytics after I finished my
+                graduation. While I was working I would also participate in
+                hackathons and solving problems to satiate my quench to know
+                more about this field and keep up with the ever-changing
+                technology trends. I have worked on variety of projects. Some of
+                them are listed here. I am always open to feedback and
+                suggestions.
               </PText>
             </div>
             <Button btnLink={MyCv} btnText="Download CV" target="_blank" />
