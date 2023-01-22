@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import styled from 'styled-components';
 import { Button } from '../components/Button';
 import { PText } from '../components/PText';
-import MyCv from '../assets/files/Mayank_Khattar.pdf';
+import MyCv from '../assets/Jatin_sharma (1).pdf';
 import AboutImg from '../assets/images/mk_About2.jpg';
 import { AboutPageBottom } from '../components/AboutPageBottom';
 import {
