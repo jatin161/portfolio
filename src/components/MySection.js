@@ -6,7 +6,7 @@ import { Button } from './Button';
 import { PText } from './PText';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
 import SocialDownArrow from '../assets/images/scroll-down-arrow.svg';
-import MyCv from '../assets/files/Mayank_Khattar.pdf';
+import MyCv from '../assets/Jatin_sharma (1).pdf';
 
 const MyStyles = styled.div`
   .my {
