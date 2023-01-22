@@ -194,7 +194,7 @@ export const MySection = () => (
             in Analytics. Equipped with understanding of Machine Learning,
             Statistics and Cloud Platform (AWS). Proficient in tools like
             Python, SQL, Excel and Tableau looking for a chance to contribute to
-            businesses and organisations, and making an impact by solving core 
+            businesses and organisations, and making an impact by solving core
             industry problems.
           </PText>
 
