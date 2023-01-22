@@ -85,19 +85,20 @@ export const About = ({ setProgress }) => {
             </h2>
             <div className="about__info">
               <PText>
-                Born and brought up in New-Delhi,I am a Data enthusiast with an eye
-                for detail. Ever since I was born, I was curious to know how
-                business is driven and how decisions are made to drive big
-                corporates. I remember asking my father why the price of
-                Nestle’s Maggi is set to 10 rs Only. How they came to exactly
-                that number. Is there any data behind it? And My curiosity took
-                me to choose a career in analytics after I finished my
-                graduation. While I was working I would also participate in
-                hackathons and solving problems to satiate my quench to know
-                more about this field and keep up with the ever-changing
-                technology trends. I have worked on variety of projects. Some of
-                them are listed here. I am always open to feedback and
-                suggestions.
+                Born and brought up in New-Delhi, I’m a data enthusiast with an
+                eye for detail. Since my childhood, I’ve always been curious how
+                businesses are driven and how important decisions are made for
+                running big corporations. I remember asking my college professor
+                one day about the role of Data and Artificial Intelligence in
+                business decision making. From thereon, I never looked back,
+                became really curious about the domain and finally chose a
+                career in analytics just after my graduation. During my
+                employment also, I participated in hackathons and solved
+                intricate data analytics problems to quench my thirst for
+                specialised knowledge and keep up with the ever-changing IT
+                trends. I have worked on a variety of projects, some of which
+                are listed here I am always open to feedback, suggestions and
+                collaborations. on this site.
               </PText>
             </div>
             <Button btnLink={MyCv} btnText="Download CV" target="_blank" />
