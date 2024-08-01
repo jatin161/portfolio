@@ -53,17 +53,17 @@ export const ContactSection = () => (
       <div className="contactSection__wrapper">
         <div className="left">
           <a href="tel:+919991144289">
-            <ContactInfoItem icon={<MdLocalPhone />} text="+919991144289" />
+            <ContactInfoItem icon={<MdLocalPhone />} text="+1 9059224098" />
           </a>
           <a href="mailto:jatin822184@gmail.com">
-            <ContactInfoItem icon={<MdEmail />} text="jatin822184@gmail.com" />
+            <ContactInfoItem icon={<MdEmail />} text="js.jatin98@gmail.com" />
           </a>
           <a
-            href="https://www.google.com/maps/place/New+Delhi,+Delhi/@28.6134594,68.2443237,5z/data=!4m5!3m4!1s0x390cfd5b347eb62d:0x52c2b7494e204dce!8m2!3d28.6139391!4d77.2090212"
+            href="https://www.google.com/maps/place/Oshawa,+ON/@43.9484508,-78.9609232,12z/data=!3m1!4b1!4m6!3m5!1s0x89d51d21ccd37533:0xdd8ceff2f844fcbf!8m2!3d43.8975974!4d-78.8635999!16zL20vMDE4bjFr?entry=ttu"
             target="_blank"
             rel="noreferrer"
           >
-            <ContactInfoItem text="New Delhi, India" />
+            <ContactInfoItem text="OSHAWA ONTARIO, CANADA" />
           </a>
         </div>
         <div className="right">
